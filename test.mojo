@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 struct Circle:
     var pi: FloatLiteral
     var radius: FloatLiteral
